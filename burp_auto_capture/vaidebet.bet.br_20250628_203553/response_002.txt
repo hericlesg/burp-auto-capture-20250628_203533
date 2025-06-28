@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Content-Type: application/json
+Date: Sat, 28 Jun 2025 23:35:36 GMT
+Cloudfront-Viewer-Longitude: -49.25640
+Vary: Accept-Encoding
+X-Geoip-Country-Code: BR
+Cloudfront-Viewer-Postal-Code: 74000
+Cloudfront-Viewer-Latitude: -16.68020
+X-Cache: Miss from cloudfront
+Via: 1.1 0a4ddf7a4fc2b990787f1d82c95a0972.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GIG52-P1
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: 2PmPTRDnUN4O0PCR6bgKeoXxuszlxb-a7w7BSDKDVpgTfYEGPUtsSQ==
+
+{"success":true,"responseCodes":[{"responseCode":1,"responseKey":"SUCCESS","responseMessage":""}],"data":{"state":{"code":0,"message":"Success.","reference":"995fd4d1-9e6a-4ec7-96c6-dcbac993e60d"},"bonuses":[]}}
