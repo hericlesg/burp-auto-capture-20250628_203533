@@ -1,0 +1,16 @@
+HTTP/2 200 OK
+Content-Type: application/json
+Date: Sat, 28 Jun 2025 23:35:36 GMT
+Cloudfront-Viewer-Longitude: -49.25640
+Vary: Accept-Encoding
+X-App-Fe-Client-Version: 0
+X-Geoip-Country-Code: BR
+Cloudfront-Viewer-Postal-Code: 74000
+Cloudfront-Viewer-Latitude: -16.68020
+X-Cache: Miss from cloudfront
+Via: 1.1 0a4ddf7a4fc2b990787f1d82c95a0972.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GIG52-P1
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: fFV2_Wx8XQmsS2KlONB4bmrrgprRofgtF5DP1HKkg8_ZhFQJ5OZohw==
+
+{"success":true,"responseCodes":[{"responseCode":1,"responseKey":"SUCCESS","responseMessage":"com.pronetgaming.odin.userservice.services.PromotionService"}],"data":{"freebets":[],"bonuses":[]}}
